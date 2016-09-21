@@ -24,7 +24,7 @@
         "aplauso": {"category": "aaexodo"},
         "zpalomita": {"category": "aaexodo"},
         "lloron": {"category": "aaexodo"},
-        "sirdance": {"category": "aaexodo"},
+        "sirdance": {"category": "aaexodo"}
         "psyduck": {"category": "aaexodo"},
         "sonrositas": {"category": "aaexodo"},
         "sherlock": {"category": "aaexodo"},
@@ -129,7 +129,8 @@
         "ahsisi": {"category": "aaexodo"},
         "bored": {"category": "aaexodo"},
         "drawer": {"category": "aaexodo"},
-        "hyperclap": {"category": "aaexodo"}
+        "hyperclap": {"category": "aaexodo"},
+        "rotopunrie": {"category": "aaexodo"}
 
     }
 }
